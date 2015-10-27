@@ -1,0 +1,1 @@
+go tool pprof ./bin/cell.exe ./log/cell_prof.log

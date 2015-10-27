@@ -1,0 +1,2 @@
+cd ./bin/
+cell.exe
